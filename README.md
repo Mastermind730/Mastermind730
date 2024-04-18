@@ -41,23 +41,19 @@
 # Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="38px">
 
 <div align="center">
- <a href="https://www.linkedin.com/in/aditya-lad-609586226/" target="_blank">
+ <a href="" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Spyware linkedin style="margin-bottom: 5px;" />
 </a>
   
- <a href="https://github.com/Adityalad-25" target="_blank">
+ <a href="https://github.com/Mastermind730" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=Spyware007 GitHub style="margin-bottom: 5px;" />
 </a>
   
- <a href="https://twitter.com/Adityal22778892" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=Spyware007 twitter style="margin-bottom: 5px;" />
-</a>
 
-<a href="https://adityalad2003.hashnode.dev/" target="_blank">
-<img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white" alt=Spyware hashnode style="margin-bottom:5px;">
-</a>
 
-<a href="mailto:adityalad2003@gmail.com" target="_blank">
+
+
+<a href="mailto:sourav.97032@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=omgawandeofficial9834899149@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
