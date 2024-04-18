@@ -68,13 +68,7 @@
 
 <br/>
 
-# 📊 GitHub Stats:
-<div style="display: flex; justify-content: place-evenly;">
 
- <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityalad-25&theme=dark&hide_border=false" alt="GitHub Streak" />
-    </div>
-</div>
 
 
 
