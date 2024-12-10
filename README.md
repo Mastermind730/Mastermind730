@@ -3,10 +3,6 @@
  
    <h1> Hello ! Sourav here 👋  </h1>
    <br>
-   
-  ![GitHub Views](https://komarev.com/ghpvc/?username=Mastermind730&color=FAC151)  
-  
-
   <br>
  Full Stack Developer (MERN) || Computer Vision 🧿 <br/>
  Open Source 🚀<br/>
