@@ -4,8 +4,8 @@
    <h1> Hello ! Sourav here 👋  </h1>
    <br>
    
-  ![GitHub Views](https://komarev.com/ghpvc/?username=Adityalad-25&color=FAC151)  
-  [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/adityalad-25)
+  ![GitHub Views](https://komarev.com/ghpvc/?username=Mastermind730&color=FAC151)  
+  
 
   <br>
  Full Stack Developer (MERN) || Computer Vision 🧿 <br/>
